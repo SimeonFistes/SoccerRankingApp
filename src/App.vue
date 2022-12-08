@@ -1,4 +1,4 @@
-<script lang="ts">
+<script >
 import { defineComponent } from 'vue';
 import Navigation from '@/components/Navigation/Navigation.vue';
 export default defineComponent({
